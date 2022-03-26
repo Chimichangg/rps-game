@@ -6,6 +6,11 @@ You have 3 move choices: rock, paper, and scissors. The beast has the same. The 
 
 Scissors shred paper, paper beats rock, rock kills scissors. Are you ready?
 
+## Update Note
+Updated visual for more interactivity
+Created moveComp function package
+Updated invalid input loop
+
 ## MIT License
 
 Copyright 2022 Zeyin Lu
